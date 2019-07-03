@@ -1,0 +1,1 @@
+trigger_e0c6cd48({"enabled":true,"recordWebInfo":true,"baseUrl":"https://bystored.atlassian.net","triggerPosition":"RIGHT","triggerText":"Provide feedback"})

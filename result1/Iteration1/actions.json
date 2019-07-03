@@ -1,0 +1,32 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: contact-us",
+                "infFile": "t1.inf",
+                "time": 1562067581597
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: oranonymous",
+                "infFile": "t3.inf",
+                "time": 1562067583701
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: get-user-data",
+                "infFile": "t5.inf",
+                "time": 1562067588970
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: contact-us_2",
+                "infFile": "t6.inf",
+                "time": 1562067593315
+            }
+        ],
+        "transactions": []
+    }
+]

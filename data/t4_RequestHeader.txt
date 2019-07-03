@@ -1,0 +1,15 @@
+POST /v3/user/oranonymous?app=chromeExt&containerId=ysZceJOeoMze HTTP/1.1
+Host: auth.grammarly.com
+Connection: keep-alive
+Content-Length: 0
+Origin: chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen
+x-csrf-token: AABGe/VvbovBrZbm78pa/2XGg8zngI/FsKNZQw
+x-client-type: extension-chrome
+x-client-version: 14.916.2331
+x-container-id: ysZceJOeoMze
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: ga_clientId=29657415.1545379705; gnar_containerId=ysZceJOeoMze; sid=AABGIJcn20DKusbdfnSuRGrM9V7wIKQQqmdJUA; grauth=AABGe8hMq4SiREiBl8uRLnVGncBeYy-Dd76wovivWRte-fo85gn6_OnWRjhXGiBrGMv47cn-IzT_lPse; csrf-token=AABGe/VvbovBrZbm78pa/2XGg8zngI/FsKNZQw; experiment_groups=funnel_remove_personalize_plan_pages_noPlan|popup_editor_for_anonymous_users_test_1|fluid_chrome_rollout_enabled|unified_funnel_enabled_1; AGvsISnqdf=AGvsISnqdf; yJKLS70sZM=yJKLS70sZM; TlTKqWedIO=TlTKqWedIO; 3cQEkohP1W=3cQEkohP1W; 1EHU21qCFa=1EHU21qCFa
+

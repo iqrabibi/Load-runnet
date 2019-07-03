@@ -1,0 +1,16 @@
+[parameter:a]
+Format="%lu"
+GenerateNewVal="EachOccurrence"
+MaxValue="100"
+MinValue="1"
+OriginalValue="s09iVMSiVMUhJ8b3anr5mwUm74QIHHJMgg9YGF4y"
+ParamName="a"
+Type="Random"
+[parameter:randomNumber]
+Format="%lu"
+GenerateNewVal="EachOccurrence"
+MaxValue="100"
+MinValue="1"
+OriginalValue="bibi"
+ParamName="randomNumber"
+Type="Random"

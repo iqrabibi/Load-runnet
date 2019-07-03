@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6_1561296243058.html
+URL1=https://widget-mediator.zopim.com/s/W/ws/dDk6cwb3Enh-IL0n/c/1561296243058
+Total=2
+ContentType=image/png
+SnapshotXmlFile=snapshot_6.xml
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+FileName2=t6_sales-avatar.png
+URL2=https://d15gbi1wjka43z.cloudfront.net/bs-light-theme/sales-avatar.png
+[ProtocolInfo]
+ProtocolId=QTWeb

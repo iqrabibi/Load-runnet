@@ -1,0 +1,9 @@
+HTTP/1.1 101 Switching Protocols
+Date: Sun, 23 Jun 2019 13:24:08 GMT
+Connection: upgrade
+Set-Cookie: AWSALB=aVILUp4eImruhgIsN0roUuuJNg+/ddMhAXBvudgPH56GEptHgYol8BtI6rh88AVOF4jOE9Z5f0ID58jr7QKTt5fdX0EP1pldSCJTyvDeJlk27bc7VyixhpnSxKP/; Expires=Sun, 30 Jun 2019 13:24:08 GMT; Path=/
+Upgrade: websocket
+Sec-WebSocket-Accept: 3NUY1f+xu/MI/9pJ5nKkJk2fsUs=
+Sec-WebSocket-Version: 13
+WebSocket-Server: uWebSockets
+

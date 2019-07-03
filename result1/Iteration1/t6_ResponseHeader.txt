@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Tue, 02 Jul 2019 11:39:48 GMT
+Server: Apache/2.4.33 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type
+Cache-Control: no-cache
+Set-Cookie: laravel_session=eyJpdiI6Ik1GbStkcU9GNEVQb3lVQytud3RvdFk0UlFcL3UxVDM5MVZGeUJWaEp5YlRnPSIsInZhbHVlIjoiXC9zNEdcL0pUUTBNanhqMTVZQWFDRGtcL3U3b2JIOGdHM25NbzhmSlN1MmZhbjY0SitVNzJDK2t5QW12WmZGNUExZVdvbk9WTGN5V1RsaDlSdUJqejZjRHc9PSIsIm1hYyI6ImJiMTAzNzI0OGZjNWIwNDE3YzViZmM0ZGMzNmE0MTFlZGVlYzY5ODY1Y2UwZDI3ZGRjNzBjZDg3NGIzMjUxYTgifQ%3D%3D; expires=Tue, 09-Jul-2019 11:39:52 GMT; Max-Age=604800; path=/; httponly
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/json
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>email_ic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.2%" y="-16.4%" width="104.4%" height="132.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.675115059   0 0 0 0 0.718829187   0 0 0 0 0.736314838  0 0 0 0.559074955 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.65">
+        <g transform="translate(-494.000000, -274.000000)" id="Group-11">
+            <g transform="translate(480.000000, 203.000000)">
+                <g id="book-cta-copy" filter="url(#filter-1)" transform="translate(0.000000, 49.000000)">
+                    <g id="email_ic" transform="translate(16.000000, 20.000000)">
+                        <rect id="Rectangle-48-Copy-9" x="0" y="0" width="24" height="24"></rect>
+                        <g id="mail" transform="translate(1.476562, 2.976562)" fill="#2D9BF3" fill-rule="nonzero">
+                            <path d="M19.3570312,0.02109375 L1.70625,0.02109375 C0.7734375,0.02109375 0.01875,0.77578125 0.01875,1.70859375 L0.01875,16.378125 C0.01875,17.3109375 0.7734375,18.065625 1.70625,18.065625 L19.3570313,18.065625 C20.2898438,18.065625 21.0445313,17.3109375 21.0445313,16.378125 L21.0445312,1.70859375 C21.0445312,0.778125 20.2875,0.02109375 19.3570312,0.02109375 Z M17.5476562,1.70859375 L11.2640625,6.9609375 L11.2265625,6.99140625 L11.19375,7.0265625 C11.034375,7.1953125 10.81875,7.28671875 10.5867188,7.2890625 C10.584375,7.2890625 10.584375,7.2890625 10.5820312,7.2890625 C10.3523437,7.2890625 10.1367188,7.19765625 9.97734375,7.03359375 L9.94453125,7.00078125 L3.52734375,1.70859375 L17.5476562,1.70859375 Z M19.3570312,16.378125 L1.70625,16.378125 C1.70625,16.378125 1.70625,16.378125 1.70625,16.378125 L1.70625,2.3953125 L8.803125,8.24296875 C9.28125,8.71640625 9.909375,8.9765625 10.584375,8.9765625 C10.5890625,8.9765625 10.5914063,8.9765625 10.5960937,8.9765625 C11.2734375,8.97421875 11.90625,8.709375 12.3820312,8.22890625 L19.359375,2.39765625 L19.359375,16.378125 C19.3570312,16.378125 19.3570312,16.378125 19.3570312,16.378125 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+GET /get-user-data HTTP/1.1
+Referer: http://qa1.bystored.com/contact-us
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: qa1.bystored.com
+Cookie: laravel_session=eyJpdiI6Ink0dGprdnRyM1Y2Nzh4aTBqNU5YenhuTGRPSmVmVm5kdERFWW9rZEVXUFU9IiwidmFsdWUiOiIwaVpTTE5iVFJsV3hLdW0rQWhzbStuZ252Q2ZVRHZCbDFCY3U1NmwyNWc5OG9KR3hPWktLUllOVmlDM3pLTGtMU2lzelBKam9YRlwvRndjWUdLakNWXC9nPT0iLCJtYWMiOiI2MjNiMWUxYzI3OTE1Y2YxZjlmMDdhZmQzZmMwMTFhYjU0YThjODczYThkNjczYjMwOTYzYjM3NzdmNjE3MDI5In0%3D; _ga=GA1.2.1060359363.1561296225; _gid=GA1.2.1464638045.1561296225; _gat_UA-83695430-1=1; __zlcmid=swiKkTSt2iTtFB
+
